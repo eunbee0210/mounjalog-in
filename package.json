@@ -1,0 +1,23 @@
+{
+  "name": "mounjalog-in",
+  "version": "1.0.0",
+  "description": "Mounjalog In - Sharing Patient Stories",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "next": "^15.0.0",
+    "lucide-react": "^0.408.0",
+    "papaparse": "^5.4.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1",
+    "postcss": "^8.4.32",
+    "autoprefixer": "^10.4.16"
+  }
+}
